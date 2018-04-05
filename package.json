@@ -1,0 +1,23 @@
+{
+  "name": "email-survey-food",
+  "version": "0.0.1",
+  "description": "email survey food",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pappricot/email-survey-food.git"
+  },
+  "author": "Anya Nguyen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pappricot/email-survey-food/issues"
+  },
+  "homepage": "https://github.com/pappricot/email-survey-food#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-mailjet": "^3.2.1"
+  }
+}
